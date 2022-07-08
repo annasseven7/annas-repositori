@@ -4,3 +4,7 @@ Annasseven7 Koding
 - Javascript
 - Python
 - MySQL
+- React.js
+- Tailwind
+- Bootstrap
+- JQuerry
