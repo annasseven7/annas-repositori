@@ -6,5 +6,4 @@ Annasseven7 Koding
 - MySQL
 - React.js
 - Tailwind
-- Bootstrap
 - JQuerry
