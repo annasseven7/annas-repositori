@@ -1,0 +1,6 @@
+Annasseven7 Koding
+- HTML
+- CSS
+- Javascript
+- Python
+- MySQL
