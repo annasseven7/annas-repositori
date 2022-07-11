@@ -1,6 +1,7 @@
 RENCANA BELAJAR ANNASSEVEN7
 
 - Belajar React
+- Belajar Angular
 - Belajar Tailwind
 - Belajar AI
 - Belajar Deep Learning
